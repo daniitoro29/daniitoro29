@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola 👋 Soy Daniela Toro. 
 
-<!--
-**daniitoro29/daniitoro29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrolladora Web Front end: [Laboratoria](https://www.laboratoria.la/) 👩🏻‍💻 
 
-Here are some ideas to get you started:
+ 
+👩🏻‍💻 Soy desarrolladora Front end junior en proceso.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente soy estudiante de Laboratoria y también curso una tecnología en Análisis y desarrollo de información (nocturno). 
+
+
+- 🌱 Actualmente estoy aprendiendo **Angular.** 
+- 📫 Cómo contactarme: daniitoro29@gmail.com y LinkedIn. 
+- ⚡ Dato curioso: Me encanta la naturaleza 🌿 y los animales, 🐕 tengo seis gatos y una perrita.  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniitoro29)](https://github.com/anuraghazra/github-readme-stats) 
