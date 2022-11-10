@@ -1,14 +1,14 @@
 ## Hola 👋 Soy Daniela Toro. 
 
-### Desarrolladora Web Front end: [Laboratoria](https://www.laboratoria.la/) 👩🏻‍💻 
+### Desarrolladora Web Front end 👩🏻‍💻 
 
  
 👩🏻‍💻 Soy desarrolladora Front end junior en proceso.  
 
-🔭 Actualmente soy estudiante de Laboratoria y también curso una tecnología en Análisis y desarrollo de información (nocturno). 
+🔭 Actualmente curso una tecnología en Análisis y desarrollo de información (nocturno). 
 
 
-- 🌱 Actualmente estoy aprendiendo **Angular.** 
+- 🌱 Actualmente estoy aprendiendo **React.** 
 - 📫 Cómo contactarme: daniitoro29@gmail.com y LinkedIn. 
 - ⚡ Dato curioso: Me encanta la naturaleza 🌿 y los animales, 🐕 tengo seis gatos y una perrita.  
 
