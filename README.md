@@ -3,7 +3,7 @@
 ### Desarrolladora Web Front end 👩🏻‍💻 
 
  
-👩🏻‍💻 Soy desarrolladora Front end junior en proceso.  
+👩🏻‍💻 Soy desarrolladora Front end en proceso.  
 
 🔭 Actualmente curso una tecnología en Análisis y desarrollo de información (nocturno). 
 
