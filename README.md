@@ -5,10 +5,10 @@
  
 👩🏻‍💻 Soy desarrolladora Front end en proceso.  
 
-🔭 Actualmente curso una tecnología en Análisis y desarrollo de información (nocturno). 
+🔭  Soy tecnóloga en Análisis y Desarrollo de Sistemas y actualmente estoy cursando Certified Tech Developer en Digital House. 
 
-
-- 🌱 Actualmente estoy aprendiendo **React.** 
+- 🌱 Actualmente estoy aprendiendo **Java** 
+🚀 Tengo conocimientos en HTML, CSS, React, Jest, metodologías ágiles, y Node.js.
 - 📫 Cómo contactarme: daniitoro29@gmail.com y LinkedIn. 
 - ⚡ Dato curioso: Me encanta la naturaleza 🌿 y los animales, 🐕 tengo seis gatos y una perrita.  
 
